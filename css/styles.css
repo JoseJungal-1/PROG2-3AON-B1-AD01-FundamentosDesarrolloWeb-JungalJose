@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(168, 229, 229);
+    color: rgb(45, 50, 60);
+    margin: 0;
+}
+
+.hero {
+    background-color: rgb(28, 32, 142);
+}
+
+.tarjeta {
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+}
+
+.text-primary {
+    color: rgb(28, 32, 142) !important;
+}
+
+.btn-primary {
+    background-color: rgb(28, 32, 142);
+    border-color: rgb(28, 32, 142);
+}
+
+.btn-primary:hover {
+    background-color: rgb(20, 22, 95);
+    border-color: rgb(20, 22, 95);
+}
+
+input:focus,
+select:focus,
+textarea:focus {
+    border-color: rgb(28, 32, 142);
+    box-shadow: none;
+}
+
+@media (max-width: 768px) {
+    .hero {
+        padding: 40px 0;
+    }
+}
