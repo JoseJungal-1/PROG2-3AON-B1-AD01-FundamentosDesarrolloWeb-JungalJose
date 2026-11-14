@@ -77,7 +77,7 @@ Mantenimiento-Automotriz/
 
 1. Clona este repositorio en tu máquina local:
    ```bash
-   git clone https://github.com
+   git clone https://github.com/JoseJungal-1/PROG2-3AON-B1-AD01-FundamentosDesarrolloWeb-JungalJose.git
    ```
 2. Abre la carpeta del proyecto en **Visual Studio Code**.
 3. Abre el archivo `index.html` en tu navegador web o ejecútalo mediante la extensión **Live Server**.
